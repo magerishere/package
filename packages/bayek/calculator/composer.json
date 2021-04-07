@@ -1,0 +1,10 @@
+{
+    "name": "ali/calculator",
+    "authors": [
+        {
+            "name": "magerishere",
+            "email": "immagerishere@gmail.com"
+        }
+    ],
+    "require": {}
+}
