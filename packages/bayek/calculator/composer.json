@@ -1,19 +1,19 @@
 {
     "name": "bayek/calculator",
-    "description": "A first package from laravel",
+    "description": "Greetr - A simple Laravel package.",
     "type": "project",
     "license": "MIT",
-    "minimum-stability": "dev",
-    "autoload": {
-        "psr-4":{
-            "Bayek\\Calculator\\": "/src"
-        }
-    },
     "authors": [
         {
-            "name": "magerishere",
-            "email": "immagerishere@gmail.com"
+            "name": "Francis Macugay",
+            "email": "francis01@simplexi.com.ph"
         }
     ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Bayek\\Calculator\\": "src/"
+        }
+    },
     "require": {}
 }
