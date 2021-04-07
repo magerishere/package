@@ -1,5 +1,14 @@
 {
-    "name": "ali/calculator",
+    "name": "bayek/calculator",
+    "description": "A first package from laravel",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4":{
+            "Bayek\\Calculator\\": "/src"
+        }
+    },
     "authors": [
         {
             "name": "magerishere",
